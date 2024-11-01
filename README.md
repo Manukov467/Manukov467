@@ -15,3 +15,9 @@
 <div id="heythere" align="center">
 <h1> Профиль на GITHUB </h1>
 </div>
+
+### :man_technologist: Обо мне :
+
+- :man_student: Студент 3 курса
+- :school: Я учусь в МПТ
+- :banana: Лоблю бананы
