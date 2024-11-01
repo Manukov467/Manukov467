@@ -4,7 +4,7 @@
   </a>
   
   <a href= "https://mail.google.com/mail/u/0/#inbox">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white">
+      <img src= "https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </div>
 
