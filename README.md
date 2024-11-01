@@ -8,6 +8,6 @@
 </div>
 
 <div id="viewprof" aligh="center">
-  <img src="https://komarev.com/ghpvc/?username=Manukov467&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Manukov467&style=flat-square&color=blue">
 </div>
   
