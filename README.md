@@ -1,6 +1,6 @@
 <div id="badges" align ="center">
   <a href= "https://id.vk.com/account/#/main"
-     <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=while" alt="VK Badge"/>
+     <img alt="Static Badge" src="https://img.shields.io/badge/build-passing-blue?style=flat&logo=VK&logoColor=Blue&link=https%3A%2F%2Fvk.com%2Fid748018272">
     </a>
 
     <a href= "https://mail.google.com/mail/u/0/#inbox">
