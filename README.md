@@ -34,3 +34,7 @@
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=Manukov467" alt=""/>
 </div>
+### :bar_chart: Статистика активности :
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manukov467&theme=github" alt=""/>
+</div>
