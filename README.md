@@ -33,6 +33,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Manukov467" alt=""/>
 </div>
 
+### :keyboard: Наиболее используемые языки :
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manukov467" alt=""/>
+</div>
+
 ### :bar_chart: Статистика активности :
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manukov467&theme=github" alt=""/>
